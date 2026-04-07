@@ -16,22 +16,22 @@ Reunir conceitos, técnicas, exemplos e referências que ajudem a escrever promp
 
 ## Estrutura sugerida
 
-- `introducao/`
+- [introducao/](./introducao/)
   Conceitos básicos, boas práticas e fundamentos.
 
-- `tecnicas/`
+- [tecnicas/](./tecnicas/)
   Zero-shot, few-shot, chain-of-thought, ReAct, RAG e outras abordagens.
 
-- `aplicacoes/`
+- [aplicacoes/](./aplicacoes/)
   Casos de uso práticos para análise, documentação, automação, troubleshooting e produtividade.
 
-- `modelos/`
+- [modelos/](./modelos/)
   Observações sobre tipos de modelos, contexto, limitações e escolha de abordagem.
 
-- `prompts/`
+- [prompts/](./prompts/)
   Exemplos prontos e adaptáveis para diferentes tarefas.
 
-- `referencias/`
+- [referencias/](./referencias/)
   Links, artigos, materiais de apoio e fontes externas.
 
 ## Temas que serão trabalhados
